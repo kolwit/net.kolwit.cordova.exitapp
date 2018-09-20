@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "name": "net.kolwit.cordova.exitapp",
+    "cordova_name": "ExitApp",
+    "description": "Implements navigator.app.exitApp on WP8",
+    "license": "Apache 2.0",
+    "keywords": [
+        "cordova",
+        "terminate"
+    ],
+    "engines": []
+}
